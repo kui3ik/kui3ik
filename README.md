@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kui3ik
-- 👀 I’m interested in Computer sience
+- 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning C, HTML, CSS, Python, SQL, and more.
 - 📫 How to reach me?
       on email: kuba.gold@
