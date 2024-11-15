@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning C, HTML, CSS, Python, SQL, and more.
 - 📫 How to reach me?
-      on email: kuba.gold@
+      on email: kuba.gold@post.cz
 - ⚡ Fun fact: i'm from Czech Republic
 
 <!---
